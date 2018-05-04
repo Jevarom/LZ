@@ -11,6 +11,8 @@ int main(void) {
   x = *int_pointer; //Reference the contents of 'count' through the pointer
   //variable 'int_pointer', you use the indirection operator, which is the *
 
+  count = 8;
+
   printf ("count = %i, x = %i\n", count, x);
 
   return 0;
