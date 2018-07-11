@@ -26,6 +26,6 @@ int main (void) {
   printf ("The gcd of 1026 and 405 is %i\n", result);
 
   printf ("The gcd of 83 and 240 is %i\n", gcd (83, 240));
-  
+
   return 0;
 }
